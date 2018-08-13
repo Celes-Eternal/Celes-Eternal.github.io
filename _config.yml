@@ -1,0 +1,10 @@
+# Site settings
+title: Mahtieu Van Nevel CV
+description: CV Online
+
+# User settings
+username: Mathieu Van Nevel
+user_title: C++ Software Developer
+email: vannevel.mathieu@openworld.top
+
+exclude: ['package.json', 'src' , 'node_modules']
